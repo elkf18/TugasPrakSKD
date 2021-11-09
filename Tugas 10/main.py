@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 29 20:46:19 2020
-
-@author: Shashwat Kathuria
-"""
 
 def main():
 
